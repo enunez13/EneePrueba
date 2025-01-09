@@ -1,7 +1,404 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egli.nunez\\EneePrueba\\backend\\.vs\\EneePrueba\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\EneePrueba\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\consultapaginado\\consultarestadotareapaginadorunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\consultapaginado\\consultarestadotareapaginadorunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\estadotarea\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\estadotarea\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\prioridadtarea\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\prioridadtarea\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tarea\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tarea\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tipotarea\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tipotarea\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\consultapaginado\\consultatareapaginadoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\consultapaginado\\consultatareapaginadoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tipotarea\\consultapaginado\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tipotarea\\consultapaginado\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\eliminartarea\\eliminartareacommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\eliminartarea\\eliminartareacommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\prioridadtarea\\consultapaginado\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\prioridadtarea\\consultapaginado\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\consultapaginado\\consultaprioridadtareapaginadoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\consultapaginado\\consultaprioridadtareapaginadoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\estadotarea\\consultapaginado\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\estadotarea\\consultapaginado\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\consultarestdotarea\\consultaestadotareaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\consultarestdotarea\\consultaestadotareaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\consultapaginado\\consultaestadotareapaginadoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\consultapaginado\\consultaestadotareapaginadoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\consultapaginado\\consultarprioridadtareapaginadorunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\consultapaginado\\consultarprioridadtareapaginadorunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\consultapaginado\\consultartareapaginadorunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\consultapaginado\\consultartareapaginadorunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\consultartarea\\consultatareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\consultartarea\\consultatareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tipotareas\\consultartipotarea\\consultatipotareaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tipotareas\\consultartipotarea\\consultatipotareaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\consultaparametrosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\consultaparametrosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tipotareas\\consultartipotarea\\consulttipotarearunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tipotareas\\consultartipotarea\\consulttipotarearunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\estadotarea\\consultarestado\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\estadotarea\\consultarestado\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\prioridadtarea\\consultarprioridadtarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\prioridadtarea\\consultarprioridadtarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tarea\\consultatarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tarea\\consultatarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tipotarea\\consultartipotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tipotarea\\consultartipotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\modules\\factura\\features\\consultarfacturas\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\modules\\factura\\features\\consultarfacturas\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\modules\\factura\\features\\recuperarfactura\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\modules\\factura\\features\\recuperarfactura\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\modules\\factura\\features\\consultarfacturas\\consultarfacturaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\modules\\factura\\features\\consultarfacturas\\consultarfacturaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\consultaprioridad\\consultprioridadtarearunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\consultaprioridad\\consultprioridadtarearunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\consultaprioridad\\consultaprioridadtareaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\consultaprioridad\\consultaprioridadtareaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\consultarestdotarea\\consultestadotarearunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\consultarestdotarea\\consultestadotarearunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\consultartarea\\consulttarearunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\consultartarea\\consulttarearunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\consultartarea\\consultatareaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\consultartarea\\consultatareaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\tarearoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\tarearoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\prioridadtarea\\crearprioridadtarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\prioridadtarea\\crearprioridadtarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\estadotarea\\eliminarestadotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\estadotarea\\eliminarestadotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\prioridadtarea\\eliminarprioridadtarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\prioridadtarea\\eliminarprioridadtarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tipotarea\\editartipotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tipotarea\\editartipotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tipotarea\\eliminartipotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tipotarea\\eliminartipotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\eliminarprioridad\\eliminarprioridadtareacommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\eliminarprioridad\\eliminarprioridadtareacommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\eliminarprioridad\\eliminarprioridadtareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\eliminarprioridad\\eliminarprioridadtareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\eliminarprioridad\\eliminarprioridadtareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\eliminarprioridad\\eliminarprioridadtareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\eliminarestadotarea\\eliminarestadotareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\eliminarestadotarea\\eliminarestadotareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\eliminarestadotarea\\eliminarestadotareacommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\eliminarestadotarea\\eliminarestadotareacommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\eliminarestadotarea\\eliminarestadotareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\eliminarestadotarea\\eliminarestadotareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tarea\\eliminartarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tarea\\eliminartarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tipotareas\\editartipotarea\\editartipotareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tipotareas\\editartipotarea\\editartipotareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\projections\\tareaprojector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\projections\\tareaprojector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\eliminartarea\\eliminartareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\eliminartarea\\eliminartareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tarea\\creartarea\\tarearesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tarea\\creartarea\\tarearesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tarea\\editartarea\\editartarearesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tarea\\editartarea\\editartarearesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\modules\\factura\\features\\crearfacturas\\facturaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\modules\\factura\\features\\crearfacturas\\facturaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\eliminartarea\\tareaeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\eliminartarea\\tareaeliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\modules\\factura\\projections\\facturatable\\factura01projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\modules\\factura\\projections\\facturatable\\factura01projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\modules\\factura\\projections\\facturatable\\factura02projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\modules\\factura\\projections\\facturatable\\factura02projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\modules\\factura\\projections\\facturatable\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\modules\\factura\\projections\\facturatable\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\eliminartarea\\eliminartareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\eliminartarea\\eliminartareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\prioridadtarea\\editarprioridadtarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\prioridadtarea\\editarprioridadtarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\editarprioridad\\editarprioridadtareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\editarprioridad\\editarprioridadtareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\editarprioridad\\editarprioridadtareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\editarprioridad\\editarprioridadtareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\estadotarea\\editarestadotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\estadotarea\\editarestadotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\estadotarea\\crearestadotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\estadotarea\\crearestadotarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\editarestadotarea\\editarestadotareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\editarestadotarea\\editarestadotareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\editarestadotarea\\editarestadotareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\editarestadotarea\\editarestadotareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\projections\\estadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\projections\\estadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\editarestadotarea\\editarestadotareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\editarestadotarea\\editarestadotareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tipotarea\\parametroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tipotarea\\parametroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tipotarea\\parametrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tipotarea\\parametrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\creartarea\\creartareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\creartarea\\creartareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\editartarea\\editartareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\editartarea\\editartareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\crearprioridad\\prioridadtareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\crearprioridad\\prioridadtareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\createestadotarea\\estadotareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\createestadotarea\\estadotareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tipotareas\\creartipotarea\\tipotareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tipotareas\\creartipotarea\\tipotareavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tipotareas\\projections\\tipotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tipotareas\\projections\\tipotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\editartarea\\tareaeditado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\editartarea\\tareaeditado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tarea\\editartarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tarea\\editartarea\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\editartarea\\editartareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\editartarea\\editartareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tarea\\editartarea\\editartarearequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tarea\\editartarea\\editartarearequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\endpoints\\tarea\\creartarea\\tarearequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\endpoints\\tarea\\creartarea\\tarearequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\editartarea\\editartareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\editartarea\\editartareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\creartarea\\creartareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\creartarea\\creartareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\creartarea\\creartareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\creartarea\\creartareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\creartarea\\tareacreado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\creartarea\\tareacreado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tipotareas\\creartipotarea\\tipotareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tipotareas\\creartipotarea\\tipotareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\crearprioridad\\prioridadtareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\crearprioridad\\prioridadtareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\crearprioridad\\prioridadtareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\crearprioridad\\prioridadtareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.data\\configurations\\tipotareaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|solutionrelative:eneeprueba.data\\configurations\\tipotareaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tipotareas\\creartipotarea\\tipotareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tipotareas\\creartipotarea\\tipotareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\prioridadtareas\\projections\\prioridadtarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\prioridadtareas\\projections\\prioridadtarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.data\\configurations\\prioridadtareaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|solutionrelative:eneeprueba.data\\configurations\\prioridadtareaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.data\\configurations\\estadotareaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|solutionrelative:eneeprueba.data\\configurations\\estadotareaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.data\\configurations\\detallefacturaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|solutionrelative:eneeprueba.data\\configurations\\detallefacturaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\createestadotarea\\estadotareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\createestadotarea\\estadotareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\estadotareas\\createestadotarea\\estadotareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\estadotareas\\createestadotarea\\estadotareacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.domain\\prueba\\tareas\\projections\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322A7D62-4FC8-4CE6-9894-5DE0A69257E3}|EneePrueba.Domain\\EneePrueba.Domain.csproj|solutionrelative:eneeprueba.domain\\prueba\\tareas\\projections\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.data\\migrations\\tarea\\parametrosauxiliares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|solutionrelative:eneeprueba.data\\migrations\\tarea\\parametrosauxiliares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.data\\migrations\\factura\\facturaconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC36B6C-58A3-44D1-89ED-3D9AFB6F6E69}|EneePrueba.Data\\EneePrueba.Data.csproj|solutionrelative:eneeprueba.data\\migrations\\factura\\facturaconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|c:\\users\\egli.nunez\\eneeprueba\\backend\\eneeprueba.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EF1E399-E95E-42EE-BF53-5487368FF212}|EneePrueba.Api\\EneePrueba.Api.csproj|solutionrelative:eneeprueba.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +406,1198 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "applicationhost.config",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\.vs\\EneePrueba\\config\\applicationhost.config",
+              "RelativeDocumentMoniker": ".vs\\EneePrueba\\config\\applicationhost.config",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\.vs\\EneePrueba\\config\\applicationhost.config",
+              "RelativeToolTip": ".vs\\EneePrueba\\config\\applicationhost.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-09T00:34:01.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultaTareaPaginadoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\ConsultaPaginado\\ConsultaTareaPaginadoQuery.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\ConsultaPaginado\\ConsultaTareaPaginadoQuery.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\ConsultaPaginado\\ConsultaTareaPaginadoQuery.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\ConsultaPaginado\\ConsultaTareaPaginadoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:48:03.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Endpoints.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\Endpoints.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\TipoTarea\\Endpoints.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\Endpoints.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\TipoTarea\\Endpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:15:22.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Endpoints.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\Endpoints.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\Tarea\\Endpoints.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\Endpoints.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\Tarea\\Endpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:06:13.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Endpoints.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\Endpoints.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\Endpoints.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\Endpoints.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\Endpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:35:17.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endpoints.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\Endpoints.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\EstadoTarea\\Endpoints.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\Endpoints.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\EstadoTarea\\Endpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:24:26.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultarEstadoTareaPaginadoRunner.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultaPaginado\\ConsultarEstadoTareaPaginadoRunner.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultaPaginado\\ConsultarEstadoTareaPaginadoRunner.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultaPaginado\\ConsultarEstadoTareaPaginadoRunner.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultaPaginado\\ConsultarEstadoTareaPaginadoRunner.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAhwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:58:03.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EliminarTareaCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommandValidator.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommandValidator.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommandValidator.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:20:00.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\ConsultaPaginado\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\ConsultaPaginado\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\ConsultaPaginado\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\ConsultaPaginado\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:02:47.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\ConsultaPaginado\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\TipoTarea\\ConsultaPaginado\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\ConsultaPaginado\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\TipoTarea\\ConsultaPaginado\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:05:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsultaPrioridadTareaPaginadoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPaginado\\ConsultaPrioridadTareaPaginadoQuery.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPaginado\\ConsultaPrioridadTareaPaginadoQuery.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPaginado\\ConsultaPrioridadTareaPaginadoQuery.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPaginado\\ConsultaPrioridadTareaPaginadoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:55:52.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\ConsultaPaginado\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\EstadoTarea\\ConsultaPaginado\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\ConsultaPaginado\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\EstadoTarea\\ConsultaPaginado\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:01:48.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsultaEstadoTareaPaginadoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultaPaginado\\ConsultaEstadoTareaPaginadoQuery.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultaPaginado\\ConsultaEstadoTareaPaginadoQuery.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultaPaginado\\ConsultaEstadoTareaPaginadoQuery.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultaPaginado\\ConsultaEstadoTareaPaginadoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:57:38.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConsultarPrioridadTareaPaginadoRunner.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPaginado\\ConsultarPrioridadTareaPaginadoRunner.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPaginado\\ConsultarPrioridadTareaPaginadoRunner.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPaginado\\ConsultarPrioridadTareaPaginadoRunner.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPaginado\\ConsultarPrioridadTareaPaginadoRunner.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:56:20.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsultarTareaPaginadoRunner.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\ConsultaPaginado\\ConsultarTareaPaginadoRunner.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\ConsultaPaginado\\ConsultarTareaPaginadoRunner.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\ConsultaPaginado\\ConsultarTareaPaginadoRunner.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\ConsultaPaginado\\ConsultarTareaPaginadoRunner.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:48:47.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsultaEstadoTareaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultarEstdoTarea\\ConsultaEstadoTareaQuery.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultarEstdoTarea\\ConsultaEstadoTareaQuery.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultarEstdoTarea\\ConsultaEstadoTareaQuery.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultarEstdoTarea\\ConsultaEstadoTareaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:05:54.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsultaTipoTareaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\ConsultarTipoTarea\\ConsultaTipoTareaQuery.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\TipoTareas\\ConsultarTipoTarea\\ConsultaTipoTareaQuery.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\ConsultarTipoTarea\\ConsultaTipoTareaQuery.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\TipoTareas\\ConsultarTipoTarea\\ConsultaTipoTareaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:53:00.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConsultTipoTareaRunner.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\ConsultarTipoTarea\\ConsultTipoTareaRunner.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\TipoTareas\\ConsultarTipoTarea\\ConsultTipoTareaRunner.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\ConsultarTipoTarea\\ConsultTipoTareaRunner.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\TipoTareas\\ConsultarTipoTarea\\ConsultTipoTareaRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:41:23.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConsultaParametrosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\ConsultaParametrosDTO.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\ConsultaParametrosDTO.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\ConsultaParametrosDTO.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\ConsultaParametrosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:01:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsultaTareaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultaTareaDTO.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultaTareaDTO.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultaTareaDTO.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultaTareaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:06:52.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConsultarFacturaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Modules\\Factura\\Features\\ConsultarFacturas\\ConsultarFacturaQuery.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Modules\\Factura\\Features\\ConsultarFacturas\\ConsultarFacturaQuery.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Modules\\Factura\\Features\\ConsultarFacturas\\ConsultarFacturaQuery.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Modules\\Factura\\Features\\ConsultarFacturas\\ConsultarFacturaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:15:13.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Modules\\Factura\\Features\\RecuperarFactura\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Modules\\Factura\\Features\\RecuperarFactura\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Modules\\Factura\\Features\\RecuperarFactura\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Modules\\Factura\\Features\\RecuperarFactura\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:20:47.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Modules\\Factura\\Features\\ConsultarFacturas\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Modules\\Factura\\Features\\ConsultarFacturas\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Modules\\Factura\\Features\\ConsultarFacturas\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Modules\\Factura\\Features\\ConsultarFacturas\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:20:35.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\ConsultarTipoTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\TipoTarea\\ConsultarTipoTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\ConsultarTipoTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\TipoTarea\\ConsultarTipoTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:22:11.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\ConsultaTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\Tarea\\ConsultaTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\ConsultaTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\Tarea\\ConsultaTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:25:24.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\ConsultarPrioridadTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\ConsultarPrioridadTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\ConsultarPrioridadTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\ConsultarPrioridadTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:28:11.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\ConsultarEstado\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\EstadoTarea\\ConsultarEstado\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\ConsultarEstado\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\EstadoTarea\\ConsultarEstado\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:30:46.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConsultPrioridadTareaRunner.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPrioridad\\ConsultPrioridadTareaRunner.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPrioridad\\ConsultPrioridadTareaRunner.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPrioridad\\ConsultPrioridadTareaRunner.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPrioridad\\ConsultPrioridadTareaRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:11:38.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConsultaPrioridadTareaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPrioridad\\ConsultaPrioridadTareaQuery.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPrioridad\\ConsultaPrioridadTareaQuery.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPrioridad\\ConsultaPrioridadTareaQuery.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\ConsultaPrioridad\\ConsultaPrioridadTareaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:11:01.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ConsultEstadoTareaRunner.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultarEstdoTarea\\ConsultEstadoTareaRunner.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultarEstdoTarea\\ConsultEstadoTareaRunner.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultarEstdoTarea\\ConsultEstadoTareaRunner.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\ConsultarEstdoTarea\\ConsultEstadoTareaRunner.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:09:13.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ConsultaTareaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultaTareaQuery.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultaTareaQuery.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultaTareaQuery.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultaTareaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:06:38.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConsultTareaRunner.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultTareaRunner.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultTareaRunner.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultTareaRunner.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\ConsultarTarea\\ConsultTareaRunner.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:06:37.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\EliminarPrioridadTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\EliminarPrioridadTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\EliminarPrioridadTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\EliminarPrioridadTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:47:35.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\EliminarEstadoTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\EstadoTarea\\EliminarEstadoTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\EliminarEstadoTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\EstadoTarea\\EliminarEstadoTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:47:29.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EliminarPrioridadTareaCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommandValidator.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommandValidator.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommandValidator.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:45:40.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\EliminarTipoTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\TipoTarea\\EliminarTipoTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\EliminarTipoTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\TipoTarea\\EliminarTipoTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:36:42.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\EditarTipoTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\TipoTarea\\EditarTipoTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\EditarTipoTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\TipoTarea\\EditarTipoTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:36:19.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TareaRoot.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\TareaRoot.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\TareaRoot.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\TareaRoot.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\TareaRoot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:23:40.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EliminarPrioridadTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:44:18.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\CrearPrioridadTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\CrearPrioridadTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\CrearPrioridadTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\CrearPrioridadTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:36:02.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EliminarPrioridadTareaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommand.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommand.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommand.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\EliminarPrioridad\\EliminarPrioridadTareaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:43:42.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EliminarEstadoTareaCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommandValidator.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommandValidator.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommandValidator.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:41:45.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EliminarEstadoTareaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommand.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommand.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommand.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:40:42.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EliminarEstadoTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EliminarEstadoTarea\\EliminarEstadoTareaCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:39:25.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EditarTipoTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\EditarTipoTarea\\EditarTipoTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\TipoTareas\\EditarTipoTarea\\EditarTipoTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\EditarTipoTarea\\EditarTipoTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\TipoTareas\\EditarTipoTarea\\EditarTipoTareaCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:33:12.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\EliminarTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\Tarea\\EliminarTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\EliminarTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\Tarea\\EliminarTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:21:57.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EliminarTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommandHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:10:11.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TareaEliminar.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\TareaEliminar.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\TareaEliminar.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\TareaEliminar.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\TareaEliminar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:08:03.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Facturas.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Facturas.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Facturas.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Facturas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:20:28.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EditarTareaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\EditarTareaResponse.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\EditarTareaResponse.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\EditarTareaResponse.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\EditarTareaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:17:26.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TareaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\CrearTarea\\TareaResponse.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\Tarea\\CrearTarea\\TareaResponse.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\CrearTarea\\TareaResponse.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\Tarea\\CrearTarea\\TareaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:56:54.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TareaProjector.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\Projections\\TareaProjector.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\Projections\\TareaProjector.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\Projections\\TareaProjector.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\Projections\\TareaProjector.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wCUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:13:48.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FacturaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Modules\\Factura\\Features\\CrearFacturas\\FacturaResponse.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Modules\\Factura\\Features\\CrearFacturas\\FacturaResponse.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Modules\\Factura\\Features\\CrearFacturas\\FacturaResponse.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Modules\\Factura\\Features\\CrearFacturas\\FacturaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:23:01.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EliminarTareaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommand.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommand.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommand.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\EliminarTarea\\EliminarTareaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:09:07.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\EditarEstadoTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\EstadoTarea\\EditarEstadoTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\EditarEstadoTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\EstadoTarea\\EditarEstadoTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:51:41.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Factura02Projector.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Factura02Projector.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Factura02Projector.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Factura02Projector.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Factura02Projector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:20:23.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Factura01Projector.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Factura01Projector.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Factura01Projector.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Factura01Projector.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Modules\\Factura\\Projections\\FacturaTable\\Factura01Projector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:20:20.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\CrearEstadoTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\EstadoTarea\\CrearEstadoTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\EstadoTarea\\CrearEstadoTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\EstadoTarea\\CrearEstadoTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:56:58.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EditarPrioridadTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\EditarPrioridad\\EditarPrioridadTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\EditarPrioridad\\EditarPrioridadTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\EditarPrioridad\\EditarPrioridadTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\EditarPrioridad\\EditarPrioridadTareaCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:00:20.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EditarEstadoTareaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaValidator.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaValidator.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaValidator.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:50:11.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EditarPrioridadTareaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\EditarPrioridad\\EditarPrioridadTareaValidator.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\EditarPrioridad\\EditarPrioridadTareaValidator.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\EditarPrioridad\\EditarPrioridadTareaValidator.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\EditarPrioridad\\EditarPrioridadTareaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:01:52.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\EditarPrioridadTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\EditarPrioridadTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\PrioridadTarea\\EditarPrioridadTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\PrioridadTarea\\EditarPrioridadTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:03:17.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EditarEstadoTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:47:51.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EditarEstadoTareaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaCommand.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaCommand.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaCommand.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\EditarEstadoTarea\\EditarEstadoTareaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:46:29.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "EditarTareaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaValidator.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaValidator.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaValidator.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:13:18.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CrearTareaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaValidator.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaValidator.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaValidator.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:13:22.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ParametroRequest.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\ParametroRequest.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\TipoTarea\\ParametroRequest.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\ParametroRequest.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\TipoTarea\\ParametroRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:03.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EstadoTarea.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\Projections\\EstadoTarea.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\Projections\\EstadoTarea.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\Projections\\EstadoTarea.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\Projections\\EstadoTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:03:57.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "EstadoTareaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaValidator.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaValidator.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaValidator.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:16:41.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PrioridadTareaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaValidator.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaValidator.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaValidator.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:32:05.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ParametroResponse.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\ParametroResponse.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\TipoTarea\\ParametroResponse.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\TipoTarea\\ParametroResponse.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\TipoTarea\\ParametroResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:39.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "TipoTareaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaValidator.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaValidator.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaValidator.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:04:24.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Endpoint.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\Endpoint.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\Endpoint.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\Endpoint.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\Endpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:15:45.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "EditarTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaCommandHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:03:36.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "TareaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\CrearTarea\\TareaRequest.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\Tarea\\CrearTarea\\TareaRequest.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\CrearTarea\\TareaRequest.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\Tarea\\CrearTarea\\TareaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:56:15.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "TipoTarea.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\Projections\\TipoTarea.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\TipoTareas\\Projections\\TipoTarea.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\Projections\\TipoTarea.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\TipoTareas\\Projections\\TipoTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:50:43.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TareaEditado.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\TareaEditado.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\TareaEditado.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\TareaEditado.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\TareaEditado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:00:49.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EditarTareaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaCommand.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaCommand.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaCommand.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\EditarTarea\\EditarTareaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:02:13.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "EditarTareaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\EditarTareaRequest.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\EditarTareaRequest.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\EditarTareaRequest.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Endpoints\\Tarea\\EditarTarea\\EditarTareaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:17:52.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "EstadoTareaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Configurations\\EstadoTareaConfiguration.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Data\\Configurations\\EstadoTareaConfiguration.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Configurations\\EstadoTareaConfiguration.cs",
+              "RelativeToolTip": "EneePrueba.Data\\Configurations\\EstadoTareaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:18:17.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "PrioridadTarea.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\Projections\\PrioridadTarea.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\Projections\\PrioridadTarea.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\Projections\\PrioridadTarea.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\Projections\\PrioridadTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:27:45.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CrearTareaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaCommand.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaCommand.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaCommand.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:34:22.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "CrearTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\CrearTareaCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:37:44.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TareaCreado.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\TareaCreado.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\TareaCreado.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\TareaCreado.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\CrearTarea\\TareaCreado.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:28:10.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "TipoTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:46:21.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "PrioridadTareaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaCommand.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaCommand.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaCommand.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:28:35.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "PrioridadTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\PrioridadTareas\\CrearPrioridad\\PrioridadTareaCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:29:40.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "TipoTareaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaCommand.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaCommand.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaCommand.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\TipoTareas\\CrearTipoTarea\\TipoTareaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:52:20.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "TipoTareaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Configurations\\TipoTareaConfiguration.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Data\\Configurations\\TipoTareaConfiguration.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Configurations\\TipoTareaConfiguration.cs",
+              "RelativeToolTip": "EneePrueba.Data\\Configurations\\TipoTareaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:47:10.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "PrioridadTareaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Configurations\\PrioridadTareaConfiguration.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Data\\Configurations\\PrioridadTareaConfiguration.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Configurations\\PrioridadTareaConfiguration.cs",
+              "RelativeToolTip": "EneePrueba.Data\\Configurations\\PrioridadTareaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:33:24.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "EstadoTareaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaCommandHandler.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaCommandHandler.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:13:37.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "DetalleFacturaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Configurations\\DetalleFacturaConfiguration.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Data\\Configurations\\DetalleFacturaConfiguration.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Configurations\\DetalleFacturaConfiguration.cs",
+              "RelativeToolTip": "EneePrueba.Data\\Configurations\\DetalleFacturaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:18:33.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "EstadoTareaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaCommand.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaCommand.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaCommand.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\EstadoTareas\\CreateEstadoTarea\\EstadoTareaCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:06:09.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Program.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\Program.cs",
+              "RelativeToolTip": "EneePrueba.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:52:01.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\Projections\\Tarea.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Domain\\Prueba\\Tareas\\Projections\\Tarea.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Domain\\Prueba\\Tareas\\Projections\\Tarea.cs",
+              "RelativeToolTip": "EneePrueba.Domain\\Prueba\\Tareas\\Projections\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:39:17.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ParametrosAuxiliares.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Migrations\\Tarea\\ParametrosAuxiliares.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Data\\Migrations\\Tarea\\ParametrosAuxiliares.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Migrations\\Tarea\\ParametrosAuxiliares.cs",
+              "RelativeToolTip": "EneePrueba.Data\\Migrations\\Tarea\\ParametrosAuxiliares.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:50:35.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "FacturaConstraints.cs",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Migrations\\Factura\\FacturaConstraints.cs",
+              "RelativeDocumentMoniker": "EneePrueba.Data\\Migrations\\Factura\\FacturaConstraints.cs",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Data\\Migrations\\Factura\\FacturaConstraints.cs",
+              "RelativeToolTip": "EneePrueba.Data\\Migrations\\Factura\\FacturaConstraints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:14:02.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\appsettings.json",
+              "RelativeToolTip": "EneePrueba.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T15:57:52.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EneePrueba.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\egli.nunez\\EneePrueba\\backend\\EneePrueba.Api\\appsettings.Development.json",
+              "RelativeToolTip": "EneePrueba.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T15:58:09.764Z"
             }
           ]
         }
